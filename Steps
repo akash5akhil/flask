@@ -1,0 +1,23 @@
+to install virtualenv 
+python -m pip install --user virtualenv
+
+
+1)to create virtual environment command is:-
+     cd Desktop/test
+python3 -m virtualenv env
+
+
+
+2)activate virtual env by following command.
+cd Desktop/test/env     
+source bin/activate..
+
+
+3)install flask inside virtual environment by the command      pip install flask
+4)install pandas inside virtual environment by the command     pip install pandas
+5)run    python app.py 
+ 
+
+
+
+
